@@ -6,6 +6,8 @@ Narodytska N, Ignatiev A, Pereira F, Marques-Silva J, Ras I. Learning Optimal De
 ```
 We use the above paper to represent the decision trees with propositional logic and use this representation to find adversarial examples, to test for model robustness.
 
+This is code is mainly based on the code written by `Chengxi Yang` at https://github.com/kamikaze0923/SAT-Decision-Tree
+
 Inference
 ====
 One extension in our code is to use the proposed representaion to find model predictions.
